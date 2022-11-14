@@ -1,0 +1,182 @@
+.h5-navbar {
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+.sign-class {
+    font-weight: 700;
+}
+
+.h6-first {
+    margin-top: 5px;
+}
+
+.image {
+    width: 100%;
+}
+
+.button-banner {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(11, 139, 11);
+    border-color: rgb(11, 139, 11);
+    color: white;
+    font-weight: 500;
+    font-family: sans-serif;
+    border-radius: 5px;
+}
+
+.span-introducing {
+    color: rgb(161, 161, 161);
+    font-weight: 600;
+}
+
+.gambar {
+    width: 90%;
+    height: 80%;
+}
+
+.h6-introducing {
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.p-introducing {
+    font-size: small;
+    font-weight: 600;
+}
+
+.h2-div {
+    font-size: xx-large;
+}
+
+.img-desktop-svg {
+    width: 35vw;
+    margin-top: 2%;
+}
+
+.div-tablist {
+    background-color: whitesmoke;
+    width: 100%;
+    height: 26%;
+   
+   
+}
+
+.lingkaran-1 {
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: gray;
+}
+
+.circle h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 4px;
+}
+
+.h5-tablist {
+    margin-left: 7px;
+    font-weight: 600;
+}
+
+
+.div-picture {
+    height: 90vh;
+    display: flex;
+}
+
+.div-colom {
+    height: 90vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.div-colom1 {
+    background-color: aquamarine;
+    height: 90vh;
+    width: 50%;
+}
+
+.image-women-read {
+    height: 90vh;
+    width: 100%;
+}
+
+.image-men-read {
+    height: 90vh;
+    width: 100%;
+}
+
+.section-content {
+    height: 110vh;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+}
+
+.div-container {
+    background-color: whitesmoke;
+    width: 90%;
+}
+
+.div-content-text {
+    background-color: whitesmoke;
+    margin-top: 70px;
+    height: 30vh;
+}
+
+.div-content-text p {
+    background-color: whitesmoke;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    color: gray;
+}
+
+.div-content-text h1 {
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.p-text {
+    margin-bottom: 50px;
+    color: black;
+}
+
+.h5-text {
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+}
+
+.div-card {
+    height: 65vh;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title {
+    font-weight: 600;
+}
+/* ini css footer */
+
+
